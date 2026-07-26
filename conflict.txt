@@ -1,1 +1,1 @@
-master version
+conflict-branch version
