@@ -2,3 +2,5 @@
 secret_file.txt
 temp/
 *.bak
+*.log
+node_modules/
